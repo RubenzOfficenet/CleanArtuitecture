@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-CleanArquitectureTemplate.Web-c085705a-6999-4f07-aade-a464c1ae1d03</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArquitectureTemplate.Application\CleanArquitectureTemplate.Application.csproj" />
+    <ProjectReference Include="..\CleanArquitectureTemplate.Infrastructure\CleanArquitectureTemplate.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

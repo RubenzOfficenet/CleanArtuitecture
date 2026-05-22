@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CleanArquitectureTemplate.Application/CleanArquitectureTemplate.Application.csproj" Id="76977b12-db27-4243-93ff-84191e0febde" />
+  <Project Path="CleanArquitectureTemplate.Domain/CleanArquitectureTemplate.Domain.csproj" Id="c91fa134-cbf2-40ac-92a7-89ab6f605c32" />
+  <Project Path="CleanArquitectureTemplate.Infrastructure/CleanArquitectureTemplate.Infrastructure.csproj" Id="eb426b8e-a1e6-41cc-a747-1639e8a2e28f" />
+  <Project Path="CleanArquitectureTemplate.Tests/CleanArquitectureTemplate.Tests.csproj" Id="7b4557ec-ba8a-4b98-b659-986b46be0871" />
+  <Project Path="CleanArquitectureTemplate.Web/CleanArquitectureTemplate.Web.csproj" Id="5daa6b1d-d233-4501-9752-f92a261f40ff" />
+</Solution>
